@@ -1,0 +1,193 @@
+{
+  "Název": "Zoo Praha",
+  "Vlastník": "John Doe",
+  "Město": "Praha",
+  "PSČ": 17100,
+  "Ulice": "U Trojského zámku 120/3",
+  "Pavilony": [
+    {
+      "Kód":101,
+      "Název_Pavilonu": "Pavilon opic",
+      "Odpovědná osoba": "John Doe mladší",
+      "Otevřen v roce": 2001,
+      "Umístění":"300m rovně od vchodu",
+      "Výběhy": [
+        {
+          "Název_Výběhu": "Výběh goril",
+          "Zvířata": [
+            {
+              "Druh": "Gorila nížinná",
+              "Jméno": "Richard",
+              "Pohlaví": "samec",
+              "Věk": 29,
+              "Váha": 170,
+              "Výška": 200,
+              "Ošetřovatel": "Felix Arg",
+              "Zdravotní obtíže": null,
+              "Poznámka": "Nenaštvat"
+            },
+            {
+              "Druh": "Gorila nížinná",
+              "Jméno": "Kamba",
+              "Pohlaví": "samice",
+              "Věk": 48,
+              "Váha": 120,
+              "Výška": 150,
+              "Ošetřovatel": "Felix Arg",
+              "Zdravotní obtíže": null,
+              "Poznámka": null
+            },
+            {
+              "Druh": "Gorila nížinná",
+              "Jméno": "Ajabu",
+              "Pohlaví": "samec",
+              "Věk": 4,
+              "Váha": 70,
+              "Výška": 120,
+              "Ošetřovatel": "Felix Arg",
+              "Zdravotní obtíže": null,
+              "Poznámka": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Kód":102,
+      "Název_Pavilonu": "Pavilon velkých želv",
+      "Odpovědná osoba": "Jenice Dean",
+      "Otevřen v roce": 2003,
+      "Umístění":"Někde",
+      "Výběhy": [
+        {
+          "Název_Výběhu": "Výběh želv sloních",
+          "Zvířata": [
+            {
+              "Druh": "Želva sloní",
+              "Jméno": "Antonio",
+              "Pohlaví": "samec",
+              "Věk": 129,
+              "Váha": 235,
+              "Výška": 80,
+              "Ošetřovatel": "Felix Arg",
+              "Zdravotní obtíže": null,
+              "Poznámka": "Nikam nezpěchá"
+            },
+            {
+              "Druh": "Želva sloní",
+              "Jméno": "Eberhard ",
+              "Pohlaví": "samec",
+              "Věk": 148,
+              "Váha": 237,
+              "Výška": 78,
+              "Ošetřovatel": "Felix Arg",
+              "Zdravotní obtíže": null,
+              "Poznámka": "Notorický útěkář"
+            }
+          ]
+        },
+        {
+          "Název_Výběhu": "Výběh želv obrovských",
+          "Zvířata": [
+            {
+              "Druh": "Želva obrovská",
+              "Jméno": "Ant",
+              "Pohlaví": "samec",
+              "Věk": 78,
+              "Váha": 135,
+              "Výška": 70,
+              "Ošetřovatel": "Felix Arg",
+              "Zdravotní obtíže": null,
+              "Poznámka": null
+            },
+            {
+              "Druh": "Želva obrovská",
+              "Jméno": "Ebe",
+              "Pohlaví": "samice",
+              "Věk": 59,
+              "Váha": 137,
+              "Výška": 68,
+              "Ošetřovatel": "Felix Arg",
+              "Zdravotní obtíže": null,
+              "Poznámka": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Expozice": [
+    {
+      "Kód":201,
+      "Název_Expozice": "Pláně",
+      "Odpovědná osoba": "Jane Doe",
+      "Otevřen v roce": 2001,
+      "Umístění":"U vchodu",
+      "Výběhy": [
+        {
+          "Název_Výběhu": "Výběh bizonů",
+          "Zvířata": [
+            {
+              "Druh": "Bizon",
+              "Jméno": "Charles",
+              "Pohlaví": "samec",
+              "Věk": 25,
+              "Váha": 400,
+              "Výška": 150,
+              "Ošetřovatel": "Albert Malý",
+              "Zdravotní obtíže": "četné zubní kazy",
+              "Poznámka": "Mazel"
+            },
+            {
+              "Druh": "Psoun",
+              "Jméno": "Harry",
+              "Pohlaví": "samec",
+              "Věk": 3,
+              "Váha": 0.5,
+              "Výška": 10,
+              "Ošetřovatel": "Albert Malý",
+              "Zdravotní obtíže": null,
+              "Poznámka": "Má tendenci se podhrabávat do jiných výběhů a krást tam svačiny"
+            }
+          ]
+        },
+        {
+           "Kód":202,
+          "Název_Výběhu": "Ptačí Mokřady",
+          "Odpovědná osoba": "Jenifer Doe",
+          "Otevřen v roce": 1995,
+          "Umístění":"Úplně vzadu",
+          "Výběhy": [
+            {
+              "Název": "Výběh jeřábů",
+              "Zvířata": [
+                {
+                  "Druh": "Jeřáb popelavý",
+                  "Jméno": "Samuel",
+                  "Pohlaví": "samec",
+                  "Věk": 6,
+                  "Váha": 6,
+                  "Výška": 100,
+                  "Ošetřovatel": "Franta Pepa",
+                  "Zdravotní obtíže": "prodělal zlomeninu křídla",
+                  "Poznámka": "Klobe"
+                },
+                {
+                  "Druh": "Jeřáb popelavý",
+                  "Jméno": "Samanta",
+                  "Pohlaví": "samice",
+                  "Věk": 3,
+                  "Váha": 4,
+                  "Výška": 95,
+                  "Ošetřovatel": "Kamila Horáková",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
