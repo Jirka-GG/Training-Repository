@@ -1,8 +1,8 @@
 {
   "Název": "Zoo Praha",
-  "Vlastník": "-",
-  "Město": "Praha",
-  "PSČ": 17100,
+  "Vlastník": "John Doe",
+  "Město": "Opava",
+  "PSČ": 55555,
   "Ulice": "U Trojského zámku 120/3",
   "Pavilony": [
     {
