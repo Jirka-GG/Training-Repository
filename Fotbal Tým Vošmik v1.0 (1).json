@@ -1,0 +1,300 @@
+{
+  "Název": "Sparta",
+  "Vlastník": "John Doe",
+  "Město": "Praha",
+  "PSČ": 17100,
+  "Ulice": "U Trojského zámku 120/3",
+  "Týmy": [
+    {
+      "ID týmu": 101,
+      "Název týmu": "A",
+      "Trenér": "John Doe mladší",
+      "Založen v roce": 2001,
+      "Hráči": [
+        {
+          "Pozice": [
+            {
+              "Jmeno pozice": "Brankář",
+              "Hráči v roli": [
+                {
+                  "ID hráče": 20,
+                  "Jméno": "Kojot Koala",
+                  "Pohlaví": "Muž",
+                  "Věk": 29,
+                  "Váha": 70,
+                  "Výška": 200,
+                  "Plat": 150000,
+                  "Vypršení kontraktu": "1.2.2030",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": "Nenaštvat"
+                },
+                {
+                  "ID hráče": 21,
+                  "Jméno": "Kojot Kakadu",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 50,
+                  "Výška": 150,
+                  "Plat": 15000,
+                  "Vypršení kontraktu": "2.2.2022",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": "Nenaštvat"
+                }
+              ]
+            },
+            {
+              "Jmeno pozice": "Obránce",
+              "Hráči v roli": [
+                {
+                  "ID hráče": 40,
+                  "Jméno": "Ondřej Ondatra",
+                  "Pohlaví": "Muž",
+                  "Věk": 22,
+                  "Váha": 70,
+                  "Výška": 180,
+                  "Plat": 15000,
+                  "Vypršení kontraktu": "1.2.2030",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": null
+                },
+                {
+                  "ID hráče": 41,
+                  "Jméno": "Orion Ozon",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 50,
+                  "Výška": 150,
+                  "Plat": 15000,
+                  "Vypršení kontraktu": "2.2.2022",
+                  "Zdravotní obtíže": null,
+                  "Poznámka":null
+                }
+              ]
+            },
+            {
+              "Jmeno pozice": "Útočník",
+              "Hráči v roli": [
+                {
+                  "ID hráče": 60,
+                  "Jméno": "Tanuki Mýval",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 70,
+                  "Výška": 178,
+                  "Plat": 130000,
+                  "Vypršení kontraktu": "1.2.2030",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": null
+                },
+                {
+                  "ID hráče": 61,
+                  "Jméno": "Sokol Orel",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 50,
+                  "Výška": 150,
+                  "Plat": 150000,
+                  "Vypršení kontraktu": "2.2.2023",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": null
+                }
+              ]
+            },
+            {
+              "Jmeno pozice": "Záložník",
+              "Hráči v roli": [
+                {
+                  "ID hráče": 80,
+                  "Jméno": "Paolo Pelgriny",
+                  "Pohlaví": "Muž",
+                  "Věk": 29,
+                  "Váha": 70,
+                  "Výška": 200,
+                  "Plat": 150000,
+                  "Vypršení kontraktu": "1.2.2030",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": "Nenaštvat"
+                },
+                {
+                  "ID hráče": 81,
+                  "Jméno": "Pablo Escobar",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 50,
+                  "Výška": 150,
+                  "Plat": 150000,
+                  "Vypršení kontraktu": "2.8.2022",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": "Nenaštvat"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    
+    },
+     {
+      "ID týmu": 102,
+      "Název týmu": "B",
+      "Trenér": "James Ram",
+      "Založen v roce": 2006,
+      "Hráči": [
+        {
+          "Pozice": [
+            {
+              "Jmeno pozice": "Brankář",
+              "Hráči v roli": [
+                {
+                  "ID hráče": 22,
+                  "Jméno": "Kof Kum",
+                  "Pohlaví": "Muž",
+                  "Věk": 29,
+                  "Váha": 70,
+                  "Výška": 200,
+                  "Plat": 150000,
+                  "Vypršení kontraktu": "1.2.2030",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": "Nenaštvat",
+                  "Aktivní":true
+                },
+                {
+                  "ID hráče": 23,
+                  "Jméno": "Dominik D",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 50,
+                  "Výška": 150,
+                  "Plat": 15000,
+                  "Vypršení kontraktu": "2.2.2022",
+                  "Zdravotní obtíže": "Nutné časté masáže",
+                  "Poznámka": null,
+                   "Aktivní":true
+                }
+              ]
+            },
+            {
+              "Jmeno pozice": "Obránce",
+              "Hráči v roli": [
+                {
+                  "ID hráče": 42,
+                  "Jméno": "Ondřej Ora",
+                  "Pohlaví": "Muž",
+                  "Věk": 22,
+                  "Váha": 70,
+                  "Výška": 180,
+                  "Plat": 15000,
+                  "Vypršení kontraktu": "1.2.2030",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": null,
+                   "Aktivní":true
+                },
+                {
+                  "ID hráče": 43,
+                  "Jméno": "Or Ozon",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 50,
+                  "Výška": 150,
+                  "Plat": 15000,
+                  "Vypršení kontraktu": "2.2.2022",
+                  "Zdravotní obtíže": null,
+                  "Poznámka":null,
+                   "Aktivní":true
+                }
+              ]
+            },
+            {
+              "Jmeno pozice": "Útočník",
+              "Hráči v roli": [
+                {
+                  "ID hráče": 62,
+                  "Jméno": "Tan Uk",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 70,
+                  "Výška": 178,
+                  "Plat": 130000,
+                  "Vypršení kontraktu": "1.2.2030",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": null,
+                   "Aktivní":true
+                },
+                {
+                  "ID hráče": 63,
+                  "Jméno": "Sfd Fik",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 50,
+                  "Výška": 150,
+                  "Plat": 150000,
+                  "Vypršení kontraktu": "2.2.2023",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": null,
+                   "Aktivní":true
+                }
+              ]
+            },
+            {
+              "Jmeno pozice": "Záložník",
+              "Hráči v roli": [
+                {
+                  "ID hráče": 82,
+                  "Jméno": "Andrew Fuller",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 70,
+                  "Výška": 200,
+                  "Plat": 150000,
+                  "Vypršení kontraktu": "1.2.2030",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": null,
+                   "Aktivní":true
+                },
+                {
+                  "ID hráče": 83,
+                  "Jméno": "Pablo Kokaino",
+                  "Pohlaví": "Muž",
+                  "Věk": 20,
+                  "Váha": 50,
+                  "Výška": 150,
+                  "Plat": 150000,
+                  "Vypršení kontraktu": "2.8.2022",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": "Nenaštvat"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    
+    }
+  ],
+  "Trenéři":[
+    {
+      "ID trenéra": 1,
+                  "Jméno": "James Ram",
+                  "Pohlaví": "Muž",
+                  "Věk": 45,
+                  "Váha": 90,
+                  "Výška": 180,
+                  "Plat": 100000,
+                  "Vypršení kontraktu": "Nikdy",
+                  "Zdravotní obtíže": null,
+                  "Poznámka": "Cholerik"
+    },
+    {
+      "ID trenéra": 2,
+                  "Jméno": "John Doe mladší",
+                  "Pohlaví": "Muž",
+                  "Věk": 35,
+                  "Váha": 150,
+                  "Výška": 180,
+                  "Plat": 10000,
+                  "Vypršení kontraktu": "1.1.2021",
+                  "Zdravotní obtíže": "Morbidní obezita",
+                  "Poznámka": "Ať už je pryč"
+    }
+    ]
+}
